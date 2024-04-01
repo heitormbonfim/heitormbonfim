@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey there, fellow wanderer! 👋
 
-<!--
-**heitormbonfim/heitormbonfim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Heitor, a software developer, ethical hacker, and entrepreneur embarking on an odyssey to conquer the digital universe.
 
-Here are some ideas to get you started:
+## 🚀 Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently navigating the freelance realm
+- 🌱 Delving into the depths of NextJS
+- 💡 Passionate about the stoic philosophy & the art of writing
+- 📫 How to reach me: heitormbonfim@gmail.com
+
+## 💼 Skills
+
+- **Programming Languages:** JavaScript, TypeScript, Python
+- **Tools and Technologies:** ReactJS, ExpressJS, NodeJS, MongoDB, PostgreSQL
+- **Ethical Hacking Prowess:** Bug Bounty
+
+## 💬 Let's Connect
+
+Feel free to shoot me a message for a chat about software development, ethical hacking, or anything else that piques your interest. Let's dive deep into the digital realm together!
+
+[Connect on LinkedIn](https://www.linkedin.com/in/heitormbonfim/)
+
+## 🌟 Fun Fact
+
+Did you know that the word "calculus" has its origins in the Latin term "calculus," which translates to "small stone" or "pebble"? In ancient times, pebbles were ingeniously used as counting devices, paving the way for the evolution of mathematical calculation and computation.
+
+## 📚 Favorite Quote
+
+"Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
