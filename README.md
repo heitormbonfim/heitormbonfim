@@ -1,18 +1,20 @@
-# Hey there, fellow wanderer! 👋
+# Hey there! 👋
 
 I'm Heitor, a software developer, ethical hacker, and entrepreneur embarking on an odyssey to conquer the digital universe.
+
+[heitormbonfim.com](https://heitormbonfim.com/)
 
 ## 🚀 Quick Facts
 
 - 🔭 Currently navigating the freelance realm
-- 🌱 Delving into the depths of NextJS
+- 🌱 Delving into the depths of VueJS
 - 💡 Passionate about the stoic philosophy & the art of writing
 - 📫 How to reach me: heitormbonfim@gmail.com
 
 ## 💼 Skills
 
 - **Programming Languages:** JavaScript, TypeScript, Python
-- **Tools and Technologies:** ReactJS, ExpressJS, NodeJS, MongoDB, PostgreSQL
+- **Tools and Technologies:** ReactJS, VueJS, ExpressJS, NodeJS, MongoDB, Python, PostgreSQL
 - **Ethical Hacking Prowess:** Bug Bounty
 
 ## 💬 Let's Connect
