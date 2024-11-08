@@ -30,3 +30,7 @@ Did you know that the word "calculus" has its origins in the Latin term "calculu
 ## 📚 Favorite Quote
 
 "Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
+
+## 📊 Statistics
+
+![Heitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heitormbonfim&show_icons=true&theme=dracula)
