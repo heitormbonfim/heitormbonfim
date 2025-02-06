@@ -1,36 +1,36 @@
-# Hey there! 👋
+# Hi, I'm Heitor
 
-I'm Heitor, a software developer, ethical hacker, and entrepreneur embarking on an odyssey to conquer the digital universe.
+I’m a seasoned software developer, ethical hacker, and entrepreneur on a mission to redefine the digital landscape. With a passion for crafting robust systems and a deep appreciation for philosophy, I navigate the tech world with precision and purpose.
 
 [heitormbonfim.com](https://heitormbonfim.com/)
 
-## 🚀 Quick Facts
+## 🚀 At a Glance
 
-- 🔭 Currently navigating the freelance realm
-- 🌱 Delving into the depths of VueJS
-- 💡 Passionate about the stoic philosophy & the art of writing
-- 📫 How to reach me: heitormbonfim@gmail.com
+- **Freelance Navigator:** Currently carving out a niche in the freelance ecosystem.
+- **Tech Explorer:** Diving deep into VueJS and continually expanding my skill set.
+- **Philosophy & Writing:** Dedicated to both the rigor of code and the art of thoughtful expression.
+- **Connect:** Reach out at heitormbonfim@gmail.com for collaborations or deep tech discussions.
 
-## 💼 Skills
+## 💼 Technical Expertise
 
-- **Programming Languages:** JavaScript, TypeScript, Python
-- **Tools and Technologies:** ReactJS, VueJS, ExpressJS, NodeJS, MongoDB, Python, PostgreSQL
-- **Ethical Hacking Prowess:** Bug Bounty
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks & Tools:** ReactJS, VueJS, ExpressJS, NodeJS, MongoDB, PostgreSQL
+- **Cybersecurity:** Active in the Bug Bounty arena with a keen eye for vulnerabilities
 
-## 💬 Let's Connect
+## 💬 Get in Touch
 
-Feel free to shoot me a message for a chat about software development, ethical hacking, or anything else that piques your interest. Let's dive deep into the digital realm together!
+Let’s connect if you’re interested in cutting-edge software development, ethical hacking, or exploring new tech horizons. I'm always up for a conversation that challenges the status quo.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/heitormbonfim/)
 
-## 🌟 Fun Fact
+## 🌟 Did You Know?
 
-Did you know that the word "calculus" has its origins in the Latin term "calculus," which translates to "small stone" or "pebble"? In ancient times, pebbles were ingeniously used as counting devices, paving the way for the evolution of mathematical calculation and computation.
+The term "calculus" comes from the Latin word for "small stone." Ancient civilizations used pebbles as counting tools, setting the stage for the evolution of mathematical computation.
 
-## 📚 Favorite Quote
+## 📚 Inspiration
 
-"Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
+_"Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein_
 
-## 📊 Statistics
+## 📊 GitHub Stats
 
-![Heitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heitormbonfim&show_icons=true&theme=dracula)
+<div> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitormbonfim&show_icons=true&theme=dracula&count_private=true&border_radius=10&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormbonfim&layout=compact&theme=dracula&border_radius=10"/> </div>
