@@ -7,7 +7,7 @@ I’m a seasoned software developer, ethical hacker, and entrepreneur on a missi
 ## 🚀 At a Glance
 
 - **Freelance Navigator:** Currently carving out a niche in the freelance ecosystem.
-- **Tech Explorer:** Diving deep into VueJS and continually expanding my skill set.
+- **Tech Explorer:** Diving deep into VueJS, NextJS, and Java and continually expanding my skill set.
 - **Philosophy & Writing:** Dedicated to both the rigor of code and the art of thoughtful expression.
 - **Connect:** Reach out at heitormbonfim@gmail.com for collaborations or deep tech discussions.
 
