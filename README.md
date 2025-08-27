@@ -7,7 +7,7 @@ I’m a seasoned software developer, ethical hacker, and entrepreneur on a missi
 ## 🚀 At a Glance
 
 - **Freelance Navigator:** Currently carving out a niche in the freelance ecosystem.
-- **Tech Explorer:** Diving deep into VueJS, NextJS, Java, and Springboot while constantly expanding my expertise.
+- **Tech Explorer:** Diving deep into Nuxt, Go (Golang) with Gin, Java with Springboot while constantly expanding my expertise.
 - **Philosophy & Writing:** Dedicated to both the rigor of code and the art of thoughtful expression.
 - **Connect:** Reach out at [heitormbonfim@gmail.com](mailto:heitormbonfim@gmail.com) for collaborations or deep tech discussions.
 
@@ -18,6 +18,7 @@ I’m a seasoned software developer, ethical hacker, and entrepreneur on a missi
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Golang**
 
 ### Frameworks & Tools
 - ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white) **Springboot**
@@ -26,8 +27,11 @@ I’m a seasoned software developer, ethical hacker, and entrepreneur on a missi
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB**
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL**
 - ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **ReactJS**
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **VueJS**
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **NextJS**
+- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **VueJS**
+- ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) **NuxtJS**
+- ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) **Gin**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
 
 ### Cybersecurity
 - ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF6F61?style=flat-square&logo=bugcrowd&logoColor=white) **Bug Bounty**
