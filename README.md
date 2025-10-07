@@ -1,58 +1,62 @@
-# Hi, I'm Heitor
+# Hi, I'm Heitor 👋
 
-I’m a seasoned software developer, ethical hacker, and entrepreneur on a mission to redefine the digital landscape. With a passion for crafting robust systems and a deep appreciation for philosophy, I navigate the tech world with precision and purpose.
+**Seasoned Software Developer, Ethical Hacker, and Entrepreneur.** I build robust systems and navigate the digital landscape with precision and purpose. I'm all about writing quality code and exploring the deeper "why" behind technology.
 
 [heitormbonfim.com](https://heitormbonfim.com/)
 
-## 🚀 At a Glance
+---
 
-- **Freelance Navigator:** Currently carving out a niche in the freelance ecosystem.
-- **Tech Explorer:** Diving deep into Nuxt, Go (Golang) with Gin, Java with Springboot while constantly expanding my expertise.
-- **Philosophy & Writing:** Dedicated to both the rigor of code and the art of thoughtful expression.
-- **Connect:** Reach out at [heitormbonfim@gmail.com](mailto:heitormbonfim@gmail.com) for collaborations or deep tech discussions.
+## 🚀 The Quick Scoop
 
-## 💼 Technical Expertise
+| What I'm Doing Now | What I'm Learning | Where to Find Me |
+| :--- | :--- | :--- |
+| **Freelancing** and creating impactful projects. | **Nuxt** (deep dive), **Go/Gin**, and **Java/Spring Boot**. | Drop me a line: [heitormbonfim@gmail.com](mailto:heitormbonfim@gmail.com) |
+
+---
+
+## 💻 Tech Stack & Expertise
+
+My focus is on creating full-stack, scalable, and secure applications.
 
 ### Languages
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) **Java**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) **TypeScript**
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Golang**
+| Language | Badge |
+| :--- | :--- |
+| **Java** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Go** (Golang) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+| **TypeScript** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| **JavaScript** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
-### Frameworks & Tools
-- ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white) **Springboot**
-- ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square) **ExpressJS**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **NodeJS**
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB**
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) **PostgreSQL**
-- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) **ReactJS**
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) **NextJS**
-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) **VueJS**
-- ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) **NuxtJS**
-- ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) **Gin**
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
+### Frameworks & Databases
+| Category | Key Tech |
+| :--- | :--- |
+| **Backend** | ![Springboot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) **Springboot**, ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white) **Gin**, ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) **NodeJS**, ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge) **ExpressJS** |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **ReactJS**, ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) **NextJS**, ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) **NuxtJS**, ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) **VueJS** |
+| **Data & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL**, ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) **MongoDB**, ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker** |
 
-### Cybersecurity
-- ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF6F61?style=flat-square&logo=bugcrowd&logoColor=white) **Bug Bounty**
+### Cybersecurity Focus
+* **Ethical Hacking** & **Security Research**
+* Active in **Bug Bounty** programs ![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-FF6F61?style=flat-square&logo=bugcrowd&logoColor=white)
 
-## 💬 Get in Touch
+---
 
-Let’s connect if you’re interested in cutting-edge software development, ethical hacking, or exploring new tech horizons. I'm always up for a conversation that challenges the status quo.
+## 📈 My GitHub Activity
+
+<div style="display: flex; gap: 1rem;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitormbonfim&show_icons=true&theme=dracula&count_private=true&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormbonfim&layout=compact&theme=dracula&border_radius=10" alt="Top Languages"/>
+</div>
+
+---
+
+## 🤝 Let's Chat
+
+Got a challenging project? Interested in collaborating on a security audit or a deep tech discussion? **I'm always open to connecting.**
 
 [Connect on LinkedIn](https://www.linkedin.com/in/heitormbonfim/)
 
-## 🌟 Did You Know?
+---
 
-The term "calculus" comes from the Latin word for "small stone." Ancient civilizations used pebbles as counting tools, setting the stage for the evolution of mathematical computation.
+## ✨ Just For Fun
 
-## 📚 Inspiration
-
-_"Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein_
-
-## 📊 GitHub Stats
-
-<div style="display: flex; gap: 1rem;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitormbonfim&show_icons=true&theme=dracula&count_private=true&border_radius=10&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormbonfim&layout=compact&theme=dracula&border_radius=10" alt="Top Languages"/>
-</div>
+> *"Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein*
