@@ -12,14 +12,6 @@ Focused on building reliable software, strengthening system security, and expand
 
 ---
 
-## 🎯 Current Focus
-
-- Deepening my expertise in **Nuxt**, **Go/Gin**, and **Spring Boot**
-- Building cleaner backend architectures and more maintainable systems  
-- Improving application security and understanding system internals
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages  
@@ -37,6 +29,7 @@ Focused on building reliable software, strengthening system security, and expand
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
 ### Frontend  
@@ -49,6 +42,7 @@ Focused on building reliable software, strengthening system security, and expand
 
 ### Databases & DevOps  
 <p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -63,15 +57,6 @@ Focused on building reliable software, strengthening system security, and expand
   <img src="https://img.shields.io/badge/Bug_Bounty-FF6F61?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security_Research-00D9FF?style=for-the-badge&logo=security&logoColor=white"/>
 </p>
-
----
-
-## 🚀 What I’m Improving
-
-- Backend structure, performance, and clean API design  
-- Frontend clarity and modern UI patterns  
-- Secure coding practices and real-world vulnerability analysis  
-- Building a broader, more solid project portfolio
 
 ---
 
