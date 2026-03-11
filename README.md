@@ -54,7 +54,7 @@ Focused on building reliable software, strengthening system security, and expand
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-### 🔒 Cybersecurity  
+### 🔒 Cybersecurity  (Hobby)
 <p align="left">
   <img src="https://img.shields.io/badge/Ethical_Hacking-FF6F61?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bug_Bounty-FF6F61?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
