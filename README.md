@@ -51,13 +51,6 @@ Focused on building reliable software, strengthening system security, and expand
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white"/>
 </p>
 
-### 🔒 Cybersecurity  (Hobby)
-<p align="left">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-FF6F61?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug_Bounty-FF6F61?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security_Research-00D9FF?style=for-the-badge&logo=security&logoColor=white"/>
-</p>
-
 ---
 
 ## 🤝 Collaboration
