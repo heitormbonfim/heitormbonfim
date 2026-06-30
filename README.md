@@ -16,8 +16,6 @@ Brazilian dev who traded teaching English for writing code in 2020. I build prod
 
 Building **[Jurictus](https://jurictus.com)** — a legal ERP (Enterprise Resource Planning) SaaS (Software as a Service) for the Brazilian legal market, competing with established players like ADVBOX and Astrea. Solo-built end to end: Go/Gin backend, Nuxt 4 frontend, PostgreSQL, multi-tenant architecture, JWT (JSON Web Token) auth with RSA signing, async task queues, and CI/CD (Continuous Integration / Continuous Deployment) via Docker and GitHub Container Registry.
 
-Also looking at international remote roles — open to backend, full-stack, or infrastructure work.
-
 ---
 
 ## Experience
